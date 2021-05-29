@@ -1,0 +1,23 @@
+// app global css in SCSS form
+.net-input-control {
+  .q-field__bottom {
+    padding: 5px 0 0;
+  }
+  
+  .q-field__control {
+    border-radius: 0.375rem;
+  }
+}
+
+.net-input-checkbox {
+  .q-checkbox__bg {
+    border-radius: 0.375rem;
+  }
+}
+
+.text-blues-soft {
+  color: #3252DF;
+}
+.bg-blue-soft {
+  background: #3252DF;
+}

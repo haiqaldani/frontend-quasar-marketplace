@@ -1,0 +1,10 @@
+{
+  "tailwindcss": {
+    "prefix": "net-",
+    "parts": [
+      "base",
+      "components",
+      "utilities"
+    ]
+  }
+}
